@@ -1,2 +1,5 @@
 # first
-my first attempt
+my first attempt.
+i dont know if this is a place to write code or just type things...
+but from the steps i'm following from the browser ,it instructs that i should write something about my self.
+i love icecream,movies,music n trying out new food joints...
